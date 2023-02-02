@@ -16,8 +16,8 @@ println(multi(2,3))
 }
 
 /**
- * en nuestra funcion multi recibimos los parametros de tipo Int retornando una operacion
- * la cual se imprimira al llamar desde main a la funcion lambda
+ * En nuestra función multi recibimos los parametros de tipo Int retornando una operación
+ * la cual se imprimira al llamar desde main a la función lambda
  */
 fun multi(x: Int, y: Int): Int? {
 return x * y
